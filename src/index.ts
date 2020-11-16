@@ -1,7 +1,3 @@
-export function testfunc() {
-  return 'hello tests'
-}
+import { calculateASCVDEstimate } from '@src/utils'
 
-export function testfunc2(arg: string) {
-  return 'hello tests again' + arg
-}
+export default calculateASCVDEstimate
