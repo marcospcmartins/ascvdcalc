@@ -1,3 +1,1 @@
-import { calculateASCVDEstimate } from '@src/utils'
-
-export default calculateASCVDEstimate
+export { calculateASCVDEstimate } from './utils'
