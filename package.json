@@ -1,6 +1,6 @@
 {
   "name": "ascvdcalc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/ascvdcalc.min.js",
   "module": "lib/index.js",
   "types": "dist/index.d.ts",
@@ -16,5 +16,9 @@
   "scripts": {
     "test": "jest",
     "build": "tsc -m es6 -p tsconfig.exclude.json --outDir lib-esm && webpack"
-  }
+  },
+  "files": [
+    "dist",
+    "lib-esm"
+  ]
 }
