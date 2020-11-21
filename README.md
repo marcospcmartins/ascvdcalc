@@ -17,13 +17,13 @@ Import the calculation with either require or esm modules
 Node
 
 ```
-var { calculateASCCDEstimate } = require('ascvdcalc')
+var { calculateASCVDEstimate } = require('ascvdcalc')
 ```
 
 ESM
 
 ```
-import { calculateASCCDEstimate } from 'ascvdcalc'
+import { calculateASCVDEstimate } from 'ascvdcalc'
 ```
 
 The calculation method takes a singe `patient` object which includes patient parameters needed for the calculation
