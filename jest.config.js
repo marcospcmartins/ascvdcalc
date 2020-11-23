@@ -8,9 +8,7 @@ module.exports = {
   moduleNameMapper: pathsToModuleNameMapper(compilerOptions.paths, { prefix: '<rootDir>' }),
   globals: {
     'ts-jest': {
-      diagnostics: {
-        warnOnly: true
-      }
+      diagnostics: false
     }
   }
 };
