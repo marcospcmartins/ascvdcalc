@@ -2,7 +2,7 @@
   "name": "ascvdcalc",
   "version": "1.0.2",
   "main": "dist/ascvdcalc.min.js",
-  "module": "lib/index.js",
+  "module": "lib-esm/index.js",
   "types": "dist/index.d.ts",
   "license": "UNLICENSED",
   "repository": "github:yevgenybulochnik/ascvdcalc",
