@@ -1,1 +1,1 @@
-export { calculateASCVDEstimate } from './utils'
+export { calculateASCVDEstimate } from '@src/utils'
