@@ -1,6 +1,6 @@
 # ASCVD Calculation
 
-This is a javascript implementation of the atherosclerotic cardiovascular disease (ASCVD) 10 year risk calculation. Designed my the American Academy of Cardiology (ACC) this risk Estimator enables health care providers and patients to estimate 10-year and lifetime risks for ASCVD, defined as coronary death or nonfatal myocardial infarction, or fatal or nonfatal stroke, based on the Pooled Cohort Equations and lifetime risk prediction tools.
+This is a javascript implementation of the atherosclerotic cardiovascular disease (ASCVD) 10 year risk calculation. Designed by the American Academy of Cardiology (ACC) this risk Estimator enables health care providers and patients to estimate 10-year and lifetime risks for ASCVD, defined as coronary death or nonfatal myocardial infarction, or fatal or nonfatal stroke, based on the Pooled Cohort Equations and lifetime risk prediction tools.
 
 ### References 
 - ACCs own web based [risk estimator](https://tools.acc.org/ldl/ascvd_risk_estimator/index.html#!/calulate/estimator/)
