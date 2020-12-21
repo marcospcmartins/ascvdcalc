@@ -43,7 +43,7 @@ var patientParams = {
   treatedHTN: false,
 }
 
-var estimate = calculateASCCDEstimate(patientParams) // output 5.4%
+var estimate = calculateASCVDEstimate(patientParams) // output 5.4%
 ```
 
 ### Tests
