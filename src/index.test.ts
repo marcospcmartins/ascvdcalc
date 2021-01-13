@@ -1,4 +1,4 @@
-import { calculateASCVDEstimate } from '@src/utils'
+import { calculateASCVDEstimate } from './utils'
 
 const patientCases = [
   [

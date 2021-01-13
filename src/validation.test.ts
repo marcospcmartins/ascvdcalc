@@ -1,6 +1,6 @@
 import {
   validateSex,
-} from '@src/validation'
+} from './validation'
 
 describe('Given patient sex validate field', () => {
 

@@ -1,5 +1,5 @@
-import { calculateCoefValue, calculateLnValues } from '@src/utils'
-import type { PatientParams, LnValues } from '@src/utils'
+import { calculateCoefValue, calculateLnValues } from './utils'
+import type { PatientParams, LnValues } from './utils'
 
 const patientParms: PatientParams = {
   sex: 'male',

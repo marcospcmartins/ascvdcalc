@@ -1,4 +1,4 @@
-import ASCVDConsts, { ASCVDConstSet } from '@src/constants'
+import ASCVDConsts, { ASCVDConstSet } from './constants'
 
 export type PatientParams = {
   sex: 'male' | 'female'
