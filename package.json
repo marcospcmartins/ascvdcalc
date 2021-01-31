@@ -1,6 +1,6 @@
 {
   "name": "ascvdcalc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/ascvdcalc.min.js",
   "module": "lib-esm/index.js",
   "types": "dist/index.d.ts",
