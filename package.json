@@ -1,15 +1,15 @@
 {
   "name": "ascvdcalc",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/ascvdcalc.min.js",
   "module": "lib-esm/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
   "repository": "github:yevgenybulochnik/ascvdcalc",
   "devDependencies": {
-    "jest": "^26.6.3",
-    "ts-jest": "^26.4.4",
-    "ts-loader": "^8.0.11",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "ts-loader": "^9.2.6",
     "typescript": "^4.0.5",
     "webpack": "^5.4.0",
     "webpack-cli": "^4.2.0"
