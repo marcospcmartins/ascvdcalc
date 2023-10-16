@@ -105,10 +105,9 @@ export function calculateASCVDEstimate(patient: PatientParams): string {
 
   let sum = calculatedValues.reduce((a, b) => a + b, 0 )
 
-
   let estimate = 1 - Math.pow(coefs['baselineSurvival'] as number, Math.exp(sum - ( coefs['meanCoef'] as number )))
 
-  let percentage = (estimate * 100).toPrecision(2)
+  let percentage = (estimate * 100).toPrecision(4)
 
-  return `${percentage}%`
+  return percentage
 }
